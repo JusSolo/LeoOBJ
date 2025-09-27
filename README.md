@@ -1,6 +1,6 @@
 # OBJ Simple Reader
 
-Este programa en Rust lee un archivo `.obj` y muestra en consola los **primeros 5**  
+Este programa en Rust lee un archivo `.obj` en la carpeta `.assets` y muestra en consola los **primeros 5**  
 vértices (`v`), normales (`vn`) y coordenadas de textura (`vt`).
 
 ## Ejecución
